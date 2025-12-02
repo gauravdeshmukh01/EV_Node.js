@@ -1,0 +1,3 @@
+Hello this is an example
+To read data chunk by chunk
+I hope you will understand

@@ -1,0 +1,23 @@
+npm init -y
+npm install express
+npm install -g nodemon
+npm install winston before this changes in package.json file i.e 
+      "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node win1.js",
+    "dev": "nodemon win1.js"
+  },
+
+
+
+Winston-have logging libraries-logging package.
+core functionalities-
+log levels-Error log-0
+-warn log-1
+-info-2
+-http-3
+verbose-4
+debug-5
+silly-6
+Transports-where to send these logging filesnn
+formatting-log entries will like

@@ -1,0 +1,4 @@
+ npm init -y
+ npm install -g nodemon
+ npm install mysql2
+

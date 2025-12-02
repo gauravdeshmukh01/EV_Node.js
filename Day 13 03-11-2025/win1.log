@@ -1,0 +1,58 @@
+{"level":"error","message":"An error log"}
+{"level":"error","message":"An error log"}
+{"level":"error","message":"An error log"}
+2025-11-03 19:25:06 info: An info log
+2025-11-03 19:25:06 error: An error log
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T13:59:59.544Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T13:59:59.556Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:40.691Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:02:40.694Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:42.582Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:02:42.585Z"}
+{"isAuthenticated":false,"level":"info","message":"An info log","method":"GET","timestamp":"2025-11-03T14:02:45.648Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-11-03T14:02:45.651Z"}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'info',
+  message: 'An info log',
+  timestamp: '2025-11-03T14:07:49.026Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log',
+  timestamp: '2025-11-03T14:07:49.030Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An info log',
+  level: 'info',
+  timestamp: '2025-11-03T14:07:49.030Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-11-03T14:07:49.031Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log 504 Gateway Timeout',
+  stack: 'Error: 504 Gateway Timeout\n' +
+    '    at Object.<anonymous> (C:\\Users\\gaura\\OneDrive\\Desktop\\FINACLE TRAINING\\Node.js and V8JS\\Day 13 03-11-2025\\win1.js:99:35)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n' +
+    '    at Object..js (node:internal/modules/cjs/loader:1699:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1313:32)\n' +
+    '    at Function._load (node:internal/modules/cjs/loader:1123:12)\n' +
+    '    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n' +
+    '    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n' +
+    '    at node:internal/main/run_main_module:36:49',
+  timestamp: '2025-11-03T14:10:15.913Z'
+}

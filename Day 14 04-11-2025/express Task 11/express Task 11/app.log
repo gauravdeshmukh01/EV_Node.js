@@ -1,0 +1,75 @@
+{
+  message: '🚀 Server running on port 3000',
+  level: 'info',
+  timestamp: '2025-11-04T13:56:33.791Z'
+}
+{
+  message: 'Server running on port 3000',
+  level: 'info',
+  timestamp: '2025-11-04T13:56:45.263Z'
+}
+{
+  message: 'Server running on port 3000',
+  level: 'info',
+  timestamp: '2025-11-04T13:56:54.045Z'
+}
+{
+  message: 'Fetched all employees successfully',
+  level: 'info',
+  timestamp: '2025-11-04T14:01:34.823Z'
+}
+{
+  message: 'Fetched all employees successfully',
+  level: 'info',
+  timestamp: '2025-11-04T14:01:49.886Z'
+}
+{
+  message: 'Fetched employee with ID 2',
+  level: 'info',
+  timestamp: '2025-11-04T14:02:51.081Z'
+}
+{
+  message: 'Employee with ID 9 not found',
+  level: 'warn',
+  timestamp: '2025-11-04T14:02:57.980Z'
+}
+{
+  message: 'Employee dev (ID: 6) added successfully',
+  level: 'info',
+  timestamp: '2025-11-04T14:03:43.720Z'
+}
+{
+  message: 'Add employee validation failed: Missing required fields',
+  level: 'warn',
+  timestamp: '2025-11-04T14:04:06.586Z'
+}
+{
+  message: 'Update failed: Employee with ID 9 not found',
+  level: 'warn',
+  timestamp: '2025-11-04T14:05:43.097Z'
+}
+{
+  message: 'Fetched all employees successfully',
+  level: 'info',
+  timestamp: '2025-11-04T14:11:28.482Z'
+}
+{
+  message: 'Employee with ID 9 not found',
+  level: 'warn',
+  timestamp: '2025-11-04T14:11:39.569Z'
+}
+{
+  message: 'Fetched employee with ID 5',
+  level: 'info',
+  timestamp: '2025-11-04T14:11:46.162Z'
+}
+{
+  message: 'Employee with ID 9 not found',
+  level: 'warn',
+  timestamp: '2025-11-04T14:12:04.650Z'
+}
+{
+  message: 'Server running on port 3000',
+  level: 'info',
+  timestamp: '2025-11-04T14:34:49.076Z'
+}

@@ -1,0 +1,7 @@
+# environment files
+.env
+*.env
+# sensitive files
+Day 18 20-11-2025/.env
+Day 18 20-11-2025/googPass.js
+Day 18 20-11-2025/info.txt

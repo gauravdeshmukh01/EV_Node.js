@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Joleen",
+    "branch": "HR",
+    "email": "jbroadey0@google.com.br"
+  },
+  {
+    "id": 2,
+    "name": "Shane",
+    "branch": "Tech",
+    "email": "srundall1@ovh.net"
+  },
+  {
+    "id": 3,
+    "name": "Rey",
+    "branch": "Finance",
+    "email": "rshyre2@wisc.edu"
+  },
+  {
+    "id": 4,
+    "name": "Brian",
+    "branch": "Marketing",
+    "email": "bpocke3@techcrunch.com"
+  },
+  {
+    "id": 5,
+    "name": "Nanon",
+    "branch": "Operations",
+    "email": "ngoodlet4@altervista.org"
+  },
+  {
+    "id": 6,
+    "name": "Pepito",
+    "branch": "Tech",
+    "email": "pbugbird5@craigslist.org"
+  },
+  {
+    "id": 7,
+    "name": "Rudolph",
+    "branch": "Finance",
+    "email": "rkillen6@zimbio.com"
+  },
+  {
+    "id": 8,
+    "name": "Fancy",
+    "branch": "HR",
+    "email": "florne7@google.cn"
+  },
+  {
+    "id": 9,
+    "name": "Marijo",
+    "branch": "Operations",
+    "email": "mgurg8@t.co"
+  },
+  {
+    "id": 10,
+    "name": "Rudy",
+    "branch": "Marketing",
+    "email": "rculvey9@admin.ch"
+  }
+]

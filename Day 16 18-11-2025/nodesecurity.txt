@@ -1,0 +1,13 @@
+* Node.js Security
+
+(1) Cross-Site Scripting (XSS) is a security vulnerability typically found in web applications. 
+It allows attackers to inject malicious scripts into content from otherwise trusted websites. 
+When users visit the compromised web page, the malicious scripts are executed in their browsers, 
+potentially leading to data theft, session hijacking, or other harmful actions.
+
+(2) Code Injection is a security vulnerability that occurs when an attacker is able to insert
+malicious code into a program or system. This can happen when user input is not properly
+validated or sanitized, allowing the attacker to execute arbitrary code, manipulate data,
+or gain unauthorized access to the system.
+To prevent this vulnerability, it is essential to implement strong input validation,
+sanitize user inputs, and use parameterized queries for database interactions.

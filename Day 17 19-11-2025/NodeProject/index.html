@@ -1,0 +1,25 @@
+<!-- <!DOCTYPE html>
+<html>
+<body>
+ <h2>Upload a File</h2>
+ <form action="http://localhost:3000/upload" method="post" enctype="multipart/form-data">
+   <input type="file" name="myfile" required />
+   <button type="submit">Upload</button>
+ </form>
+</body>
+</html> -->
+
+<!-- // above code for single file upload
+
+//**************************************************************// -->
+
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Upload Multiple Files</h2>
+  <form action="http://localhost:3000/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="myfiles" multiple required />
+    <button type="submit">Upload</button>
+  </form>
+</body>
+</html>

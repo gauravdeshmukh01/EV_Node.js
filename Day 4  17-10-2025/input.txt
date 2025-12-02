@@ -1,0 +1,10 @@
+
+cat
+dog
+bird
+CAT
+dog
+Mouse
+Mouse
+fish
+bird

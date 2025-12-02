@@ -1,0 +1,42 @@
+{
+  message: 'Payment received successfully',
+  level: 'info',
+  service: 'paymentServices',
+  timestamp: '2025-11-04T13:02:08.516Z'
+}
+{
+  message: 'payment received successfully',
+  level: 'info',
+  service: 'paymentServices',
+  timestamp: '2025-11-04T13:02:21.814Z'
+}
+{
+  message: 'request to /payment is processed',
+  level: 'info',
+  durationMs: 1,
+  timestamp: '2025-11-04T13:14:54.214Z'
+}
+{
+  message: 'request to /payment is processed',
+  level: 'info',
+  durationMs: 1,
+  timestamp: '2025-11-04T13:16:25.985Z'
+}
+{
+  message: 'request to /payment is processed',
+  level: 'info',
+  durationMs: 1,
+  timestamp: '2025-11-04T13:16:50.788Z'
+}
+{
+  message: 'request to /payment is processed',
+  level: 'info',
+  durationMs: 1,
+  timestamp: '2025-11-04T13:17:18.388Z'
+}
+{
+  message: 'request to /payment is processed',
+  level: 'info',
+  durationMs: 1,
+  timestamp: '2025-11-04T13:18:03.329Z'
+}

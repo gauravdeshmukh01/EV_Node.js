@@ -1,0 +1,12 @@
+{
+  message: 'Order failed due to insufficient stock',
+  level: 'error',
+  service: 'orderServices',
+  timestamp: '2025-11-04T13:02:08.531Z'
+}
+{
+  message: 'order failed due to insufficient stock',
+  level: 'error',
+  service: 'orderServices',
+  timestamp: '2025-11-04T13:02:21.821Z'
+}
